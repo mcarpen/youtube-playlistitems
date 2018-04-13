@@ -1,0 +1,15 @@
+{
+    "name": "matthieucarpentier/youtube-playlist-items",
+    "description": "Tool to get videos' ids of specific playlist",
+    "require": {
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Matthieu Carpentier",
+            "email": "matthieu.carpentier75@gmail.com"
+        }
+    ]
+}
